@@ -5,7 +5,7 @@ name: "Naomi Padilla Mora"
 nickname: "Naomi"
  
 # Saludo inicial antes de tu apodo
-greeting: "Hi, I am"
+greeting: "Hola, soy"
  
 # Imagen de ti
 image: "images/author/profile.png"
@@ -22,7 +22,7 @@ contactInfo:
  
 # Descripción de ti
 summary:
-  - I am a Data Scientist
+  - Soy ingeniera en ciencia de datos
   - I am a Reader
   - I am a Team Worker
   - I am a ...
